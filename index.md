@@ -2,6 +2,7 @@
 
 ***
 
+<button name="button" onclick="http://www.google.com">Click me</button>
 <p>Here you'll find examples of my works throughout my career.<br>
 Below is a video for a quick rundown of all that I accomplished during college.</p>
 [Click Here](https://kaleharris.github.io/models) to take a closer look at some of the models featured in that video.
