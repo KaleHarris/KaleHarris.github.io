@@ -6,7 +6,7 @@ html{
     font-family: 'Ubuntu', sans-serif;
 }
 h1{
-    color:blue;
+    color: black;
     text-align: center;
 }
 ul{
@@ -14,7 +14,9 @@ ul{
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: #17470e;
+    background-color: #276b39;
+    border: 2px solid black;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.3);
     overflow: hidden;
 }
 li {
@@ -28,7 +30,7 @@ li a, .dropbtn{
     text-decoration: none;
 }
 li a:hover:not(.active), .dropdown:hover:not(.active) .dropbtn {
-    background-color: #555;
+    background-color: #1b4a28;
     color: white;
 }
 li.dropdown{
@@ -64,6 +66,11 @@ p{
     text-align: center;
 }
 iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
     display: block;
     margin-left: auto;
     margin-right: auto;
